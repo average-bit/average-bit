@@ -28,3 +28,26 @@ a:::::aaaa::::::a       v:::::v       e::::::::eeeeeeee   r:::::r          a::::
 
 Just another guy interested in software
 ```
+
+## About Me
+Hi, I'm a software developer passionate about exploring new technologies.
+
+## GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+*   Replace `YOUR_USERNAME` with your actual GitHub username to display your stats.
+*   You can customize the appearance of the stats card by referring to the [GitHub Readme Stats documentation](https://github.com/anuraghazra/github-readme-stats).
+
+## Skills
+*   Go
+*   Python
+*   Bash
+*   Machine Learning
+*   WASM
+*   XR
+*   Linux
+
+## Interests
+*   [Your Interest 1]
+*   [Your Interest 2]
+*   [Your Interest 3]
