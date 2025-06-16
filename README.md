@@ -29,13 +29,6 @@ a:::::aaaa::::::a       v:::::v       e::::::::eeeeeeee   r:::::r          a::::
 Just another guy interested in software
 ```
 
-## GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=average-bit&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Rakish](https://github-readme-stats.vercel.app/api?username=VestigeJ&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-*   You can customize the appearance of the stats card by referring to the [GitHub Readme Stats documentation](https://github.com/anuraghazra/github-readme-stats).
-
 ## Skills
 *   Go
 *   Python
